@@ -91,7 +91,7 @@
         
         .hero-subtitle {
             font-size: 1.5rem;
-            color: #809BBF;
+            color: #cbdff3;
             margin-bottom: 2rem;
             opacity: 0;
             transform: translateY(30px);
@@ -130,7 +130,7 @@
         }
         
         .about-section {
-            height: 80vh;
+            height: 100vh;
             background: #2E3140;
             display: flex;
             justify-content: center;
